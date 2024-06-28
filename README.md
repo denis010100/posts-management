@@ -4,7 +4,7 @@ Welcome to the Posts Management App! This project is designed to manage the post
 
 ## Features
 
-- **Tasks Page**: Filter tasks by name and owner
+-   **Tasks Page**: Filter tasks by name and owner
 
 ## Getting Started
 
@@ -18,19 +18,19 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repository_url>
-   cd posts-management
-   ```
+    ```bash
+    git clone <repository_url>
+    cd posts-management
+    ```
 
 2. Install dependencies:
 
-   ```bash
-   npm install
-   ```
+    ```bash
+    npm install
+    ```
 
-   If you do not have `pnpm` installed, you can install it via npm:
+    If you do not have `pnpm` installed, you can install it via npm:
 
-   ```bash
-   npm install -g pnpm
-   ```
+    ```bash
+    npm install -g pnpm
+    ```
