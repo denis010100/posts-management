@@ -1,0 +1,16 @@
+* text=auto
+
+*.c text
+*.cpp text
+*.h text
+*.java text
+*.js text
+*.jsx text
+*.py text
+*.rb text
+*.sh text
+*.html text
+*.css text
+*.md text
+*.json text
+*.xml text
